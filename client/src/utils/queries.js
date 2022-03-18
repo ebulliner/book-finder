@@ -14,6 +14,7 @@ query Query {
       description
       image
       title
+      link
     }
   }
 }
