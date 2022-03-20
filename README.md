@@ -1,5 +1,5 @@
 # Book Finder Search Engine ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
-  This assignment was for our coding bootcamp.We were provided with some starter code and our job was to refactor it and make it become a MERN stack app.
+  This assignment was for our coding bootcamp. We were provided with some starter code and our job was to refactor it and make it become a MERN stack app.
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -21,7 +21,7 @@
   ## Contributing:
   No guidelines to follow.
   ## Credits:
-  A TON of credit goes to my TAs, instructor and my classmates. My classmate Fiona, Sam, Edyta, and Brianna helped me finish this assignment because I kept missing simple changes. Fiona and Sam were a HUGE help! They stayed up late at night with me to help me with this assignment so S/O to them!!!
+  A TON of credit goes to my TAs, instructor and my classmates. My classmates Fiona, Sam, Edyta, and Brianna helped me finish this assignment because I kept missing simple changes. Fiona and Sam were a HUGE help! They stayed up late at night with me to help me with this assignment so S/O to them!!!
   ## Tests:
   N/A
   ## Questions:
